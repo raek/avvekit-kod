@@ -1,0 +1,6 @@
+*~
+*.o
+*.eep
+*.hex
+*.elf
+doc/
